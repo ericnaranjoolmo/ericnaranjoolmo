@@ -1,0 +1,16 @@
+@media screen and (min-width: 500px){
+    *{
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+    
+    body{
+        width: 100%;
+    }
+    
+    header{
+        height: 100px;
+        background-color: #333;
+    }
+}
